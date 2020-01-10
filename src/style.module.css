@@ -1,0 +1,37 @@
+.App {
+	text-align: center;
+	font-family: sans-serif;
+}
+.months {
+	border-radius:10px;
+}
+.user {
+	border: 1px solid #000;
+	justify-content: space-between;
+	display: inline-block;
+	margin: 5px;
+	padding: 15px ;
+	background: #fff;
+
+	
+}
+h2 {
+	margin: 10px 0;
+}
+.userId {
+	margin: 5px 0;
+	color: #5a5a5a;
+	text-transform: uppercase;
+}
+.grey {
+	background: #333;
+}
+.red {
+	background: #c83c3c;
+}
+.blue {
+	background: blue;
+}
+.green {
+	background: green;
+}
